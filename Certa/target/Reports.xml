@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.253">
+    <testcase classname="to verfiy the functionality of studio application" name="to validate the funtionality of slackcart login page" time="0.045">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user login into studio appliction.....................................passed
+And user Will enter the user name...........................................undefined
+And user Will enter the password............................................skipped
+Then user Will clicks the login button......................................skipped
+And user Will drag and drop the swimlane into field.........................skipped
+And user Will enter the name and click save button..........................skipped
+And user Will drag and drop step into the swimlane..........................skipped
+And user Will enter the Name and click save button..........................skipped
+Then userWill drag and drop the field into step.............................skipped
+And user Will Enter the name and click save button..........................skipped
+]]></failure>
+    </testcase>
+</testsuite>

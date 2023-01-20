@@ -1,0 +1,3 @@
+2023-01-10 13:01:956 INFO  Log4JClass:13 - This is an info
+2023-01-10 13:01:959 WARN  Log4JClass:14 - This is a warning
+2023-01-10 13:01:959 ERROR Log4JClass:15 - This is an error
